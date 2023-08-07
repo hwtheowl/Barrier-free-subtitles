@@ -56,12 +56,25 @@ Speak to Text(STT) 모델
 <br>
 
 # 사용 기술
-<br>
+### 백엔드
+**주요 프레임워크 / 라이브러리**
+- ㅇ
+### 프론트엔드
+**주요 프레임워크 / 라이브러리**
+- ㅇ
+### AI
+**주요 프레임워크 / 라이브러리**
+- Python 3.9.16
+- Pytorch
+- Pandas
 <br>
 <br>
 
 # AI 모델
+### 자막 생성 로직 흐름도
 ![최종 기본](https://github.com/hwtheowl/Barrier-free-subtitles/assets/132368135/d1c7e9b4-0fec-4bea-96bf-12d0423a3396)
+### Whisper AI
+![Whisper 구조](https://github.com/hwtheowl/Barrier-free-subtitles/assets/132368135/67c9a1a4-81e2-498e-8edd-91658375c81c)
 <br>
 <br>
 <br>
