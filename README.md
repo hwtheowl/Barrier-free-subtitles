@@ -44,13 +44,14 @@ AI교육을 통해 배운것을 활용하여 서비스를 만드는 것이 핵�
 # 역할
 ### AI 모델 담당
 Speak to Text(STT) 모델
-
 <br>
 <br>
 <br>
 
 # 개발 환경
-<br>
+- Visual Studio Code
+- Github
+- Colab
 <br>
 <br>
 
@@ -60,6 +61,7 @@ Speak to Text(STT) 모델
 <br>
 
 # AI 모델
+![최종 기본](https://github.com/hwtheowl/Barrier-free-subtitles/assets/132368135/d1c7e9b4-0fec-4bea-96bf-12d0423a3396)
 <br>
 <br>
 <br>
