@@ -58,14 +58,22 @@ Speak to Text(STT) 모델
 # 사용 기술
 ### 백엔드
 **주요 프레임워크 / 라이브러리**
-- ㅇ
+- Python
+- Django
+- Sqlite3
+<br>
+
 ### 프론트엔드
 **주요 프레임워크 / 라이브러리**
-- ㅇ
+- HTML/CSS
+- Javascript
+<br>
+
 ### AI
 **주요 프레임워크 / 라이브러리**
-- Python 3.9.16
+- Python
 - Pytorch
+- mlflow
 - Pandas
 <br>
 <br>
@@ -75,6 +83,11 @@ Speak to Text(STT) 모델
 ![최종 기본](https://github.com/hwtheowl/Barrier-free-subtitles/assets/132368135/d1c7e9b4-0fec-4bea-96bf-12d0423a3396)
 ### Whisper AI
 ![Whisper 구조](https://github.com/hwtheowl/Barrier-free-subtitles/assets/132368135/67c9a1a4-81e2-498e-8edd-91658375c81c)
+자막 생성 로직 흐름에 따라 추출된 음성데이터를 Open ai에서 발표한 Whisper AI를 사용하여 여러 파라미터로 이루어진 결과를 받았습니다.
+
+해당 결과에서 자막 생성에 있어 필요한 자막의 시작시간, 종료시간, 자막내용을 추출하여 Pandas를 이용하여 데이터프레임으로 만들었습니다.
+
+데이터프레임을 바탕으로 srt자막 파일의 형식에 맞게 변환된 자막 파일을 만들어 저장하는 과정을 구축하였습니다.
 <br>
 <br>
 <br>
